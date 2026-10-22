@@ -153,6 +153,7 @@ activemq-data/
 .env
 .envrc
 .venv
+dev_logs/*.log
 env/
 venv/
 ENV/
